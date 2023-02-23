@@ -1,5 +1,5 @@
 # Virtualiztic
-Opensource Indonesian Virtualization Platform.
+Opensource Indonesian Virtualization Platform by Cloudintara Teknologi Anak Bangsa.
 
 Virtualiztic adalah solusi komplit virtualisasi skala enterprise karya anak bangsa yang mengintegrasikan hypervisor KVM dan linux containers (LXC), fungsi software defined storage and networking pada single platform. Menggunakan sentralisasi user interface dengan mudah dapat menjalankan VMs dan linux containers, me-manage resources software-defined storage dan networking, cluster, dan fungsi lainnya seperti backup/restore, live migration, storage replication, dan integrated firewall. Imajiner meng-enables anda untuk mem-virtualisasikan sistem operasi Linux and Windows. Imajiner dapat me-maximumkan flexibility pada data center. mencakup high-availability (HA) tanpa single point of failure (SPOF).
 
@@ -15,5 +15,7 @@ Imajiner dilengkapi dengan virtual switch yang mendukung konfigurasi VLAN pada l
 Cluster File System
 Imajiner didukung dengan fitur cluster file system yang terintegrasi dengan cluster heartbeat untuk mengimplementasikan storage block share.
 
+visit us:
+http://cloudintara.com
 Call us for the installation ISO files.
 bestimuh@cloudintara.com
