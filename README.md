@@ -14,3 +14,6 @@ Imajiner dilengkapi dengan virtual switch yang mendukung konfigurasi VLAN pada l
 
 Cluster File System
 Imajiner didukung dengan fitur cluster file system yang terintegrasi dengan cluster heartbeat untuk mengimplementasikan storage block share.
+
+Call us for the installation ISO files.
+bestimuh@cloudintara.com
